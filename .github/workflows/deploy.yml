@@ -29,6 +29,4 @@ jobs:
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        run: npx gh-pages -d build --dotfiles
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: npm run deploy
