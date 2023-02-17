@@ -1,5 +1,6 @@
 {
   "name": "devops-pipeline",
+  "homepage": "https://gitname.github.io/devops-pipeline",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
