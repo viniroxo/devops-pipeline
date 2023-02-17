@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CHUPA GUI
+          DESCULPA GUI
         </a>
       </header>
     </div>
