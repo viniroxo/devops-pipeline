@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          DESCULPA GUI
+          EU AMO DEVOPS
         </a>
       </header>
     </div>
