@@ -7,6 +7,10 @@ Será executada a pipeline de build que vai chamar outra pipeline que sobe a pag
 #Integrantes
 
 344702 MATHEUS SENA DA GRAÇA
+
 344028 GUILHERME ANDRADE GUIMARÃES
+
 344536 LUCCA BRAZ BARROS
+
 344433 VINICIUS ROXO BRANDÃO
+
